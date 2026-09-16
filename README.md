@@ -1,7 +1,6 @@
 ## Olá! Me chamo Lucca Maia 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/lucca-maia/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-maia/)
 <!--[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()-->
 
 ## Tecnologias que estão presentes no meu cotidiano:
@@ -15,4 +14,4 @@
     <img align="center" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>
 </div><br/>
 
-Estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de conhecimento na área de tecnologia!
+Formado em Análise e Desenvolvimento de Sistemas, sempre em busca de conhecimento na área de tecnologia!
