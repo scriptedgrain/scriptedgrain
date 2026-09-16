@@ -6,7 +6,7 @@
 
 ## Tecnologias que estão presentes no meu cotidiano:
 <div style="display: inline_block">
-    <img align="center" alt="C#" src="https://skillicons.dev/icons?i=c#"/>
+    <img align="center" alt="C#" src="https://skillicons.dev/icons?i=cs"/>
     <img align="center" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
     <img align="center" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>
     <img align="center" alt="CSS3" src="https://skillicons.dev/icons?i=css"/>
